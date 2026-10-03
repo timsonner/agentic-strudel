@@ -157,3 +157,58 @@ rim.wav  80 ms  metallic rim
 hit.wav  220 ms  synthesized break hit
 sub.wav  520 ms  three-pulse rolling sub
 hum.wav  800 ms  lamp-buzz one-shot
+
+packs/horn (french horn)
+call.wav  930 ms  two-note call, Eb4 then Bb4
+note.wav  750 ms  held Eb4 with a slow lip attack
+soft.wav  850 ms  softer C4
+low.wav  900 ms  low G2 horn
+fifth.wav  800 ms  Eb3 and Bb3 together
+chord.wav  850 ms  Eb major horn chord
+stop.wav  400 ms  stopped horn, brighter and shorter
+
+packs/violin (violin)
+attack.wav  350 ms  hard bow attack on A4
+bow.wav  700 ms  bowed D5 with vibrato
+pizz.wav  450 ms  E5 pizzicato
+trem.wav  600 ms  short G4 tremolo
+double.wav  550 ms  double stop A4 and E5
+high.wav  400 ms  short E6
+chord.wav  650 ms  Eb major violin chord
+
+packs/winds (flute, oboe, clarinet)
+flute.wav  700 ms  A5 flute with breath
+oboe.wav  650 ms  nasal D5 oboe
+clar.wav  700 ms  G4 clarinet, odd harmonics
+bassoon.wav  800 ms  low Bb2 bassoon
+duo.wav  650 ms  flute and oboe a third apart
+choir.wav  750 ms  C minor wind chord
+breath.wav  600 ms  air through a wind instrument
+picc.wav  320 ms  short C6 piccolo
+
+packs/strings (low strings)
+low.wav  850 ms  cello and bass C2 C3 G3
+viola.wav  700 ms  bowed G3
+chord.wav  700 ms  C minor mid-string chord
+pizz.wav  500 ms  low pizzicato C3 and G3
+trem.wav  650 ms  section tremolo on Eb and G
+open.wav  800 ms  open fifth C3 and G3
+soft.wav  750 ms  softer sul tasto chord
+
+packs/brass (brass choir)
+stab.wav  500 ms  Eb major brass stab
+fanfare.wav  800 ms  three-note trumpet call, Bb D F
+trom.wav  700 ms  trombone Bb2
+trump.wav  550 ms  trumpet Bb4
+soft.wav  800 ms  quiet horn chord
+fifth.wav  600 ms  trumpet fifth C4 and G4
+pedal.wav  950 ms  low C2 pedal tone
+
+packs/tutti (full accent)
+accent.wav  550 ms  C minor tutti with timpani
+hit.wav  600 ms  low strings plus timpani
+chord.wav  700 ms  Eb major horns, strings, and flute
+brass.wav  550 ms  horn, trumpet, and trombone
+strings.wav  600 ms  G B D string stab
+wind.wav  550 ms  flute, oboe, and clarinet
+timp.wav  700 ms  timpani falling to C2
