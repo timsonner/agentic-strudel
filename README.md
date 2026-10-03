@@ -14,4 +14,4 @@ The paste does not survive a reload. Paste it again after the tab refreshes.
 
 Packs live in packs/. The kits are dust, shrine, break, acid, club, drone, and arcade. packs/README.txt describes each hit. The first kit (kick, snare, hat, and pad) is in packs/starter/.
 
-bangers/ is for patterns worth keeping. bangers/club-groove.js is the 118 bpm A minor groove.
+bangers/ is for patterns worth keeping. bangers/club-groove.js is the 118 bpm A minor groove. bangers/edm-drop.js is the 126 bpm F minor house track. Each arrange section is labeled, and the pianoroll shows which one is playing.
