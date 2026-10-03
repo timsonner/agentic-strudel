@@ -44,3 +44,62 @@ blip.wav  90 ms  bitcrushed square blip rising from A5 to A6
 noise.wav  120 ms  short bitcrushed noise burst
 bass.wav  220 ms  decaying square bass held at A2
 arp.wav  340 ms  four bitcrushed square notes, C5 E5 G5 C6, in one shot
+
+
+packs/kondo (acid-jazz brass / kondo-style)
+horn.wav  900 ms  Eb4-ish (311 Hz) brass tone with slow attack, 5 Hz vibrato, soft harmonics, and quiet breath noise (not a harsh saw)
+mute.wav  400 ms  softer darker shorter horn note around C4
+breath.wav  500 ms  mostly filtered noise, quiet, like air through a horn
+rim.wav  60 ms  soft jazz rim (body tones plus click), not a 909
+ride.wav  700 ms  sparse metallic ping with a long quiet tail
+
+packs/dust-jazz (dusty jazz)
+bass.wav  500 ms  upright-ish Karplus-Strong bass pluck at low E (41.2 Hz)
+brush.wav  320 ms  brush noise swish (high-passed noise with rise/fall)
+rhodes.wav  600 ms  soft electric-piano Em9 chord stab with tine and chiff
+
+packs/night (late night)
+vinyl.wav  900 ms  quiet loop-ish crackle (soft hiss plus sparse pops)
+kick.wav  280 ms  soft kick with gentle pitch drop
+hat.wav  70 ms  soft closed hat of high-passed noise
+
+packs/acid2 (grittier acid)
+bd.wav clap.wav hat.wav oh.wav squelch.wav zap.wav  16-bit 44.1k mono one-shots, peaks about -3 dBFS
+
+packs/grunge (grunge)
+bd.wav hat.wav sd.wav stab.wav thump.wav  low dirty drums, thump is a falling sub
+
+packs/dirt (dirt)
+bd.wav clap.wav growl.wav hat.wav hit.wav  noisy low hits, growl is a gritty falling body
+
+packs/rust (rust)
+bd.wav blip.wav hat.wav ring.wav stab.wav  dry metallic one-shots
+
+packs/palm (poppy Ibiza house)
+bd.wav  170 ms  tight kick
+clap.wav  220 ms  staggered clap
+hat.wav  48 ms  closed hat
+oh.wav  360 ms  open hat
+pluck.wav  420 ms  E5 Karplus pluck
+rim.wav  50 ms  short rim
+shaker.wav  130 ms  shaken noise
+stab.wav  340 ms  bright C major add9 stab
+
+packs/slab (slower big beat)
+bd.wav  700 ms  boomy kick
+clap.wav  240 ms  wide clap
+hat.wav  70 ms  darker closed hat
+hit.wav  220 ms  synthesized break accent
+rim.wav  70 ms  low rim
+sd.wav  260 ms  snappy snare
+sub.wav  500 ms  sub hit
+tom.wav  420 ms  low tom
+
+packs/glass (glassy mallets)
+bowl.wav chime.wav mallet.wav mute.wav ping.wav puff.wav tick.wav  FM glass and soft noise, not acid or grunge
+
+packs/thud (dirty falling subs)
+bd.wav body.wav drop.wav dub.wav grit.wav knock.wav low.wav punch.wav  click plus a falling sub, not a copy of grunge/thump
+
+packs/rasp (noisy growls)
+bark.wav grit.wav growl.wav maw.wav moan.wav rasp.wav scrape.wav snarl.wav  slow pitch fall with grit, not a clean pluck
