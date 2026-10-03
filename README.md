@@ -16,3 +16,4 @@ Packs live in packs/. The kits are dust, shrine, break, acid, club, drone, and a
 
 bangers/ is for patterns worth keeping. bangers/club-groove.js is the 118 bpm A minor groove. bangers/edm-drop.js is the 126 bpm F minor house track. bangers/edm-wave.js is the 128 bpm A minor fluctuation track. bangers/uplift-house.js is the 126 bpm G major house track. bangers/big-beat.js is the 102 bpm E minor big beat. Each arrange section is labeled, and the pianoroll shows which one is playing.
 bangers/ibiza-pop.js is the 124 bpm F major pop house, air removed.
+bangers/acid-packs.js is the 132 bpm A minor acid track.
