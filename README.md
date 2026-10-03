@@ -1,4 +1,4 @@
-# strudel-bangers
+# Agentic Strudel
 
 This repo is the Strudel helper, the original sample packs, and the bangers.
 
