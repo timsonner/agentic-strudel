@@ -103,3 +103,57 @@ bd.wav body.wav drop.wav dub.wav grit.wav knock.wav low.wav punch.wav  click plu
 
 packs/rasp (noisy growls)
 bark.wav grit.wav growl.wav maw.wav moan.wav rasp.wav scrape.wav snarl.wav  slow pitch fall with grit, not a clean pluck
+
+packs/alley (night alley, ambient drum and bass)
+kick.wav  160 ms  tight muffled kick
+snare.wav  200 ms  dark snare
+hat.wav  45 ms  dull closed hat
+rim.wav  60 ms  low rim
+hit.wav  260 ms  synthesized distant break hit
+sub.wav  600 ms  three-pulse rolling sub
+air.wav  900 ms  alley air bed
+
+packs/sleeve (dusty vinyl)
+kick.wav  200 ms  muffled kick
+snare.wav  240 ms  dusty snare
+hat.wav  60 ms  hat with a little crackle
+hit.wav  300 ms  dull synthesized break hit
+sub.wav  540 ms  two-pulse low roll
+crackle.wav  700 ms  vinyl crackle burst
+dust.wav  550 ms  soft dust bed
+
+packs/concrete (concrete room)
+kick.wav  140 ms  dry tight kick
+snare.wav  214 ms  snare with a short slap
+hat.wav  40 ms  short bright-enough hat
+rim.wav  74 ms  rim with a room tap
+hit.wav  246 ms  synthesized break hit with slap
+sub.wav  460 ms  faster three-pulse sub
+room.wav  520 ms  distant room tone
+
+packs/rain (rain)
+kick.wav  180 ms  soft kick
+snare.wav  220 ms  muted snare
+hat.wav  90 ms  longer wet hat
+rim.wav  70 ms  soft rim
+sub.wav  500 ms  two-pulse sub
+wash.wav  1100 ms  rain noise bed
+drop.wav  340 ms  distant low hit under rain
+
+packs/tunnel (low tunnel)
+kick.wav  280 ms  boomy muffled kick
+snare.wav  260 ms  muffled snare
+hat.wav  70 ms  dark hat
+hit.wav  360 ms  low synthesized break hit
+sub.wav  800 ms  slow three-pulse rolling sub
+hum.wav  1200 ms  tunnel hum
+drip.wav  400 ms  distant dripping ping
+
+packs/sodium (sodium light)
+kick.wav  150 ms  tight kick
+snare.wav  180 ms  snare
+hat.wav  55 ms  thin hat with a 2460 Hz ring
+rim.wav  80 ms  metallic rim
+hit.wav  220 ms  synthesized break hit
+sub.wav  520 ms  three-pulse rolling sub
+hum.wav  800 ms  lamp-buzz one-shot
