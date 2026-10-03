@@ -1,0 +1,8 @@
+samples({ bd: 'bd.wav', clap: 'clap.wav', hat: 'hat.wav', chord: 'chord.wav' }, 'http://127.0.0.1:4401/club/')
+setcpm(118/4)
+let kick = s("bd ~ ~ ~").gain(0.75)
+let hat = s("~ hat ~ hat").gain(0.22)
+let clap = s("~ clap ~ clap").gain(0.4)
+let bass = n("0 ~ 0 -2 ~ 0 3 ~").scale("a1:minor").s("sine").lpf(140).decay(0.35).sustain(0.15).gain(0.55)
+let keys = n("<0 3 7 10>").scale("a3:minor").s("triangle").attack(0.02).decay(0.5).sustain(0.2).lpf(900).gain(0.28)
+stack(kick, hat, clap, bass, keys, s("chord").slow(4).gain(0.18))._scope()._spectrum()
