@@ -11,5 +11,5 @@ class H(SimpleHTTPRequestHandler):
         self.end_headers()
     def log_message(self, fmt, *args):
         pass
-os.chdir("/home/tim/src/strudel-helper/pack")
-ThreadingHTTPServer(("127.0.0.1", 4400), H).serve_forever()
+os.chdir(os.path.join(os.path.dirname(__file__), "packs"))
+ThreadingHTTPServer(("127.0.0.1", 4401), H).serve_forever()
